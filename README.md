@@ -77,5 +77,4 @@ This project is created for educational purposes.
 ## Acknowledgement
 
 This project was developed independently as part of a self-paced AI learning internship.
-"# plant-ai" 
-"# plant-ai" 
+"Plant Disease Prediction using AI"
