@@ -6,7 +6,6 @@ from PIL import Image
 # ------------------ CONFIG ------------------
 st.set_page_config(
     page_title="Plant Disease AI",
-    page_icon="🌱",
     layout="wide"
 )
 
@@ -81,7 +80,7 @@ if app_mode == " Home":
     st.markdown("<div class='card'>", unsafe_allow_html=True)
     st.title(" Plant Disease Recognition System")
     st.write("AI-powered system to detect plant diseases instantly.")
-    st.image("home.jpg", use_column_width=True)
+    st.image("home.jpg", use_column_width=False)
     st.markdown("</div>", unsafe_allow_html=True)
 
 # ABOUT 
